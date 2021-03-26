@@ -26,3 +26,4 @@ ALTER TABLE `appiandb`.`GID_request`
 ADD COLUMN `routedRequest` TINYINT(1) NULL DEFAULT 0 AFTER `outsidePrimeGlobalDept`;
 
 -- Juan's comment for branching
+-- Working on branch online
