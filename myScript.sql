@@ -24,3 +24,5 @@ CREATE TABLE IF NOT EXISTS `appiandb`.`GID_relationshipMappingAuditHistory` (
   -- Add new column "routedRequest" 
 ALTER TABLE `appiandb`.`GID_request` 
 ADD COLUMN `routedRequest` TINYINT(1) NULL DEFAULT 0 AFTER `outsidePrimeGlobalDept`;
+
+-- Juan's comment for branching
