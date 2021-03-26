@@ -35,3 +35,54 @@ Commit your stagged files to a new commit
 Push all changes to your remote repository
 
 ``` git push ```
+
+
+
+## BRANCHING
+#### CHECKOUT
+Create a new branch, -b switch allows to create a new branch.
+
+``` git checkout -b branchname ```
+
+Switch to a different branch
+
+Local: ``` git checkout branchname ``` 
+
+Remote: ``` git checkout --track origin/branchname ```
+
+#### STATUS
+To see which branch you are working on
+
+``` git status ```
+
+#### BRANCH
+Let's you see all branches
+
+Local: ``` git branch ```
+
+Remote: ``` git branch -r ```
+
+All: ``` git branch -a ```
+
+
+#### PUSH (Branch)
+If branch doesn't exist in remote:
+
+``` git push -u origin branchname (or HEAD) ```
+
+If already exists
+
+``` git push ```
+
+#### MERGE
+To merge:
+1. Change to the desired branch you wan to merge another into ``` git checkout branchname ```
+2. Merge the other branch ``` git merge branchanme ```
+
+
+#### DELETE
+To delete a branch:
+
+Local: ``` git branch -d branchname (-D force deletion) ```
+
+Remote: ``` git push origin --delete branchname ```
