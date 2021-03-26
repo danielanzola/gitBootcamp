@@ -3,18 +3,18 @@ Repo for training
 
 ## RESOURCES
 
-### Markdown Cheat Sheet
+#### Markdown Cheat Sheet
 [Link](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-### Git Commands Cheat Sheet
+#### Git Commands Cheat Sheet
 [Link](https://education.github.com/git-cheat-sheet-education.pdf)
 
-### Git Branches Tips & Commands
+#### Git Branches Tips & Commands
 [Link](https://www.nobledesktop.com/learn/git/git-branches)
 
 
 
-## Git Commands
+### Git Commands
 
 ## SETUP
 #### INIT
