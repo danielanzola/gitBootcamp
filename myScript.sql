@@ -20,3 +20,7 @@ CREATE TABLE IF NOT EXISTS `appiandb`.`GID_relationshipMappingAuditHistory` (
   `isVisible` TINYINT(1) NULL,
   `changeDesc` VARCHAR(255) NULL,
   PRIMARY KEY (`relationshipMappingAuditHistoryId`));
+
+  -- Add new column "routedRequest" 
+ALTER TABLE `appiandb`.`GID_request` 
+ADD COLUMN `routedRequest` TINYINT(1) NULL DEFAULT 0 AFTER `outsidePrimeGlobalDept`;
