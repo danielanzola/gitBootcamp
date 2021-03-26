@@ -10,7 +10,7 @@ Repo for training
 ### Git Commands
 
 # INIT
-Initialize an existing directory as a Git repo
+Initialize an existing directory as a Git repo\n
 ``` git init ```
 
 # CLONE REPO
