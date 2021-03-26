@@ -7,7 +7,7 @@ Repo for training
 [Link](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
-### Git Commands
+## Git Commands
 
 ## SETUP
 #### INIT
@@ -15,23 +15,23 @@ Initialize an existing directory as a Git repo
 
 ``` git init ```
 
-# CLONE REPO
+#### CLONE REPO
 Clone a repository given an URL
 
 ``` git clone [url] ```
 
 ## STAGING & UPDATING
-# ADD
+#### ADD
 Add a file to your next commit (staging)
 
 ``` git add [filename] ```
 
-# COMMIT
+#### COMMIT
 Commit your stagged files to a new commit
 
 ``` git commit -m "SHORT DESCRIPTION" ```
 
-# PUSH
+#### PUSH
 Push all changes to your remote repository
 
 ``` git push ```
