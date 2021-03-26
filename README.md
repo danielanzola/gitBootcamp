@@ -14,7 +14,7 @@ Repo for training
 
 
 
-### Git Commands
+# Git Commands
 
 ## SETUP
 #### INIT
