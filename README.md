@@ -10,7 +10,7 @@ Repo for training
 ### Git Commands
 
 ## SETUP
-# INIT
+#### INIT
 Initialize an existing directory as a Git repo
 
 ``` git init ```
