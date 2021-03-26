@@ -9,6 +9,7 @@ Repo for training
 
 ### Git Commands
 
+## SETUP
 # INIT
 Initialize an existing directory as a Git repo
 
@@ -16,4 +17,21 @@ Initialize an existing directory as a Git repo
 
 # CLONE REPO
 Clone a repository given an URL
+
 ``` git clone [url] ```
+
+## STAGING & UPDATING
+# ADD
+Add a file to your next commit (staging)
+
+``` git add [filename] ```
+
+# COMMIT
+Commit your stagged files to a new commit
+
+``` git commit -m "SHORT DESCRIPTION" ```
+
+# PUSH
+Push all changes to your remote repository
+
+``` git push ```
