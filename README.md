@@ -1,7 +1,7 @@
 # gitBootcamp
 Repo for training
 
-## RESOURCES
+## LEARNING RESOURCES
 
 #### Markdown Cheat Sheet
 [Link](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
@@ -12,7 +12,24 @@ Repo for training
 #### Git Branches Tips & Commands
 [Link](https://www.nobledesktop.com/learn/git/git-branches)
 
+#### Branching Workflows
+[Link](https://backlog.com/git-tutorial/branching-workflows/)
 
+
+## INSTALLATION RESOURCES
+
+#### Install on Windows
+[Link](https://git-scm.com/download/win)
+
+#### Install on Linux (Ubuntu)
+``` sudo apt install git-all ```
+
+#### Install on MacOS
+Macs normally come with git pre-installed. To check run:
+``` git --version ```
+If you don't have it, there are two ways:
+1. Install Xcode Command Line Tools by typing ``` git ``` on Terminal
+2. [Link](https://git-scm.com/download/mac)
 
 # Git Commands
 
