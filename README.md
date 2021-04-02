@@ -1,6 +1,20 @@
 # gitBootcamp
 Repo for training
 
+## GIT OVERVIEW
+
+#### What is Git?
+Git is an open source version control system designed to handle everything from small to very large projects. Git is basically a content tracker. It allows for:
+* Developers working in parallel
+* Revert and go back to an older version of the code
+* Branching and merging
+
+#### Git vs. GitHub
+* Git is a version control system, installed locally. Git is the tool.
+* GitHub is a web-based hosting service for git repositories. GitHub is a service that uses Git.
+
+
+
 ## LEARNING RESOURCES
 
 #### Markdown Cheat Sheet
