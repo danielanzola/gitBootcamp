@@ -10,8 +10,8 @@ Git is an open source version control system designed to handle everything from 
 * Branching and merging
 
 #### Git vs. GitHub
-* Git is a version control system, installed locally. Git is the tool.
-* GitHub is a web-based hosting service for git repositories. GitHub is a service that uses Git.
+* Git is a version control system, installed locally. **Git is the tool**.
+* GitHub is a web-based hosting service for git repositories. **GitHub is a service that uses Git**.
 
 
 
